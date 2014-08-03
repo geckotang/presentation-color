@@ -6,6 +6,8 @@
 
 ## GeckoTang
 
+<img src="img/geckotang.jpg" width="200">
+
 - げこたん [Twitter](http://twitter.com/GeckoTang)  [GitHub](https://github.com/geckotang)
 - [株式会社ピクセルグリッド](http://www.pxgrid.com/)
 - フロントエンド・エンジニア
