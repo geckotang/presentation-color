@@ -46,7 +46,7 @@
 }
 ```
 
-[DEMO](http://codepen.io/geckotang/pen/BiJwo/)
+[DEMO](http://codepen.io/geckotang/pen/hAwcC)
 
 ---
 
