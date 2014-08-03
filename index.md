@@ -254,7 +254,9 @@ currentColor使うと...
 
 ## より詳しくは[CodeGrid](http://www.codegrid.net/)で！
 
-- [CSS再入門 colorプロパティ](https://app.codegrid.net/entry/css-color)
+![](img/qr.png)
+
+[CSS再入門 colorプロパティ](https://app.codegrid.net/entry/css-color)
 
 ---
 
